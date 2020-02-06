@@ -1,0 +1,6 @@
+cs231n/build/*
+cs231n/im2col_cython.c
+cs231n/im2col_cython.so
+.ipynb_checkpoints
+.vscode
+__pycache__
